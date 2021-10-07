@@ -1,0 +1,1 @@
+InventoryAdd(id,1);
